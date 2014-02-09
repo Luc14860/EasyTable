@@ -1,6 +1,6 @@
 EasyTable
 =========
 
-EasyTable is an API facilitating the use of table with some practical methods.
+EasyTable is an API for Java developers used to simplify the usage of arrays with some practical methods.
 
 Please visit: https://github.com/Luc14860/EasyTable/wiki/
